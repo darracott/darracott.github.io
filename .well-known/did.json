@@ -1,0 +1,19 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:darracott.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:darracott.github.io#00de6fb81e13fca2fa805088c5ef8c6f19510a00f950fb8243ad37d73e76479a",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:darracott.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "djfavekfTTgZffk2x0pDtlaWnPGrH5ahvevaHJjOBdg=",
+        "y": "_TFRNPx6KE29nePCeKFnZ0BcvFxprZKDvtbew4Wochw=",
+        "kid": "00de6fb81e13fca2fa805088c5ef8c6f19510a00f950fb8243ad37d73e76479a",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
