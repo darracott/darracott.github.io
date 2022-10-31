@@ -3,15 +3,15 @@
   "id": "did:web:darracott.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:darracott.github.io#411cbcb8d3c4750ade73e302aa0a01b88391e450665de226d2672a82bfe5aaf0",
+      "id": "did:web:darracott.github.io#1579606166518de9c3e067f7ed94e4e00a25e8eb6b4c55458ccf2ba42b40b5d6",
       "type": "JsonWebKey2020",
       "controller": "did:web:darracott.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "PZh8EoBBtGC74OI0IvNKqOp7tI8wxvSwiMkfHpDuMes=",
-        "y": "Ai_FIag8uae7kKJcDBNifEpRg9t0cS08QVlHple_JNU=",
-        "kid": "411cbcb8d3c4750ade73e302aa0a01b88391e450665de226d2672a82bfe5aaf0",
+        "x": "QB-fm6b05KaSRq5t81qTl1i8BkafRoeUzmn0P51WUi0=",
+        "y": "cmlkALNkzgNVf3JHg6T0CQCCr-ydKYJcVyRGItc7P2w=",
+        "kid": "1579606166518de9c3e067f7ed94e4e00a25e8eb6b4c55458ccf2ba42b40b5d6",
         "alg": "ES256"
       }
     }
